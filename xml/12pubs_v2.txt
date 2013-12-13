@@ -1,0 +1,74 @@
+<locations>
+	<entry>
+		<title>1. Mulligan's - 5.30pm</title>
+		<latitude>53.346811</latitude>
+		<longitude>-6.255684</longitude>
+		<hours><![CDATA["Mulligans pub of Poolbeg Street, Dublin is two minutes walk from the main thoroughfare, O’Connell Street and has been at the core of the city’s cultural and imbibing life for nearly 300 years." - Courtesy of Publin.ie]]></hours>
+	</entry>
+	<entry>
+		<title>2. The Long Stone - 6.00pm</title>
+		<latitude>53.345889</latitude>
+		<longitude>-6.255598</longitude>,
+		<hours><![CDATA["Situated near Trinity College and around the corner from Temple Bar, The Long Stone is a buzzing Dublin boozer. The Long Stone was established in 1754 and remains a family owned pub at the heart of the city." - Courtesy of Pubsdirect.ie]]></hours>
+	</entry>
+	<entry>
+		<title>3. The Palace Bar - 6.30pm</title>
+		<latitude>53.345761</latitude>
+		<longitude>-6.259407</longitude>
+		<hours><![CDATA["The Palace Bar is well-known for its traditional Irish sessions. The cream of Irish bands has frequented the Palace over the years. The Palace Bar is one of the many pubs in this area, but it is also by far the oldest, being in existence since 1843." - Courtesy of Publin.ie]]></hours>
+	</entry>
+	<entry>
+		<title>4. The Foggy Dew - 7.00pm</title>
+		<latitude>53.344403</latitude>
+		<longitude>-6.263258</longitude>
+		<hours><![CDATA["Situated overlooking Central Bank Square in the heart of Dublin city center, The Foggy Dew offers a charming blend of old world tradition fused with an appealing contemporary atmosphere.This historical bar is the perfect spot for a quiet pint." - Courtesy of Publin.ie]]></hours>
+	</entry>
+	<entry>
+		<title>5. O'Neill's - 7.30pm</title>
+		<latitude>53.343897</latitude>
+		<longitude>-6.260598</longitude>
+		<hours><![CDATA["Located in the historic heart of Dublin, just minutes from Trinity College and Grafton Street, is O’Neill’s pub, the perfect place for a quiet pint or the lively welcome this city is famous for. You’ll always be sure of a friendly welcome here. O’Neill’s has existed as a licensed premises for 300 years and is renowned for its ageless character, numerous alcoves, snugs, nooks and crannies.." - Courtesy of Publin.ie]]></hours>
+	</entry>
+	<entry>
+		<title>6. The Bankers - 8.00pm</title>
+		<latitude>53.343993</latitude>
+		<longitude>-6.262507</longitude>
+		<hours><![CDATA["The Bankers is one of Dublins last remaining traditional Irish Pubs. Friday & Saturday night The Bankers play host to the best of Irish comedy in the up stairs comedy lounge & comedy vault." - Courtesy of Publin.ie]]></hours>
+	</entry>
+	<entry>
+		<title>7. The Stags Head - 8.30pm</title>
+		<latitude>53.343749</latitude>
+		<longitude>-6.263645</longitude>
+		<hours><![CDATA["Visiting the Stag’s Head is a wondrous experience wether you call when the premises is cosy, warm and glowing at night time, or in early morning when this is old repository of liquid culture is radiantly illuminated by wafts of sunlight filtering through the stained glass windows." Courtesy of Publin.ie]]></hours>
+	</entry>
+	<entry>
+		<title>8. Grogan's - 9.00pm</title>
+		<latitude>53.342225</latitude>
+		<longitude>-6.262658</longitude>
+		<hours><![CDATA["One of the few bars left where your conversation needn’t compete with a wide screen TV or stereo. Grogans is the perfect spot for catching up with friends or taking time out alone with the newspaper." - Courtesy of Publin.ie]]></hours>
+	</entry>
+	<entry>
+		<title>9. McDaid's - 9.35pm</title>
+		<latitude>53.341264</latitude>
+		<longitude>-6.260898</longitude>
+		<hours><![CDATA["Step into a shrine to literary inspiration (it’s Brendan Behan’s old ‘local’), where there’s a chapel-like feel, offering an oasis of calm from Dublin’s busy city centre. The Guinness is second-to-none and the staff are good for a chat too when it’s not too busy." Courtesy of Republichouse.info]]></hours>
+	</entry>
+	<entry>
+		<title>10. Bruxelles - 10.10pm</title>
+		<latitude>53.3412</latitude>
+		<longitude>-6.260555</longitude>
+		<hours><![CDATA[" Bruxelles is the home of rock and roll in Dublin and much more besides. It’s a cosmopolitan bar where you will meet people from every corner of the world. +" - Courtesy of Publin.ie]]></hours>
+	</entry>
+	<entry>
+		<title>11. Kehoe's - 10.50pm</title>
+		<latitude>53.341123</latitude>
+		<longitude>-6.259471</longitude>
+		<hours><![CDATA["Kehoe’s was first licensed in 1803 when the winds of revolution spread across Western Europe. The premises that you see before you today, were completed towards the end of the 19th century in typical Victorian style. You can view stained glass mahogany doors, old Irish snugs, partitions and the entire homely feel throughout the pub." - Courtesy of Publin.ie]]></hours>
+	</entry>
+	<entry>
+		<title>12. O'Donoghue's - 11.30pm</title>
+		<latitude>53.338221</latitude>
+		<longitude>-6.254354</longitude>
+		<hours><![CDATA["O’Donoghue’s has a rich heritage and stands on a very historical site in Dublin City. Yet it’s more modern musical history is really the stuff of legends." - Courtesy of Publin.ie]]></hours>
+	</entry>
+</locations>
